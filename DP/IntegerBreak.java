@@ -32,4 +32,5 @@ public class IntegerBreak {
         System.out.println(result);
     }
 
+
 }
